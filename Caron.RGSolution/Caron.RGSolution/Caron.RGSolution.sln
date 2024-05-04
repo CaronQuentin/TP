@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caron.RG.DAL", "Caron.RG.DAL\Caron.RG.DAL.csproj", "{0A5D5E7F-9197-4308-9DB3-3B4273D4D5D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Caron.RG.CLI", "Caron.RG.CLI\Caron.RG.CLI.csproj", "{A441B95C-D0AB-47D5-81C3-E08E54A55381}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A5D5E7F-9197-4308-9DB3-3B4273D4D5D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A5D5E7F-9197-4308-9DB3-3B4273D4D5D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A5D5E7F-9197-4308-9DB3-3B4273D4D5D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A5D5E7F-9197-4308-9DB3-3B4273D4D5D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A441B95C-D0AB-47D5-81C3-E08E54A55381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A441B95C-D0AB-47D5-81C3-E08E54A55381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A441B95C-D0AB-47D5-81C3-E08E54A55381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A441B95C-D0AB-47D5-81C3-E08E54A55381}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFC83CB6-6D94-4E99-9917-FB1AEA6A7820}
+	EndGlobalSection
+EndGlobal

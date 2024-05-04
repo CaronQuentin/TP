@@ -1,0 +1,14 @@
+{
+  "profiles": {
+    "Caron.RG.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "-import wololo.txt"
+    },
+    "Profil 1": {
+      "commandName": "Executable",
+      "executablePath": "C:\\Users\\caron\\source\\repos\\Caron.RG.DAL\\Caron.RG.CLI\\bin\\Debug\\net8.0\\Caron.RG.CLI.exe",
+      "commandLineArgs": "-import ",
+      "remoteDebugEnabled": false
+    }
+  }
+}
